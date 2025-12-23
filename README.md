@@ -9,7 +9,7 @@ I experimented with **three different UI designs** to practice frontend developm
 - Clean & responsive layouts
 
 ## Live Demo
-Try it here: [Live Demo](https://github.com/Naveed-Aijaz/Todo-App1/)
+Try it here: [Live Demo](https://naveed-aijaz.github.io/Todo-App1/)
 
 ## Installation
 1. Clone the repo
